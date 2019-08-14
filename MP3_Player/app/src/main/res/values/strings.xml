@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MP3_Player</string>
+    <array name="Song">
+        <item >Beaufiful in while</item>
+        <item>Passenger</item>
+        <item>Endless Love</item>
+    </array>
+</resources>
